@@ -4,6 +4,7 @@
 };
 .header,h1{
 	padding:0px 10px;
+	background-color:rgb(229, 229, 229);
 }
 .navbar{
 	padding:10px;
@@ -17,16 +18,15 @@
 }
 main{
 	display:flex;
+	background:rgb(245, 245, 245);
 }
 .mainSection{
 	padding:0px 10px;
 	background:#e1e8e3;
 }
-.Sidebar{
-	padding:0px 10px;
-	background:silver;
+aside{
+	background:rgb(211, 211, 211);
 }
 .footer{
-	padding:10px;
-	background:#d4cfcf;
+	background:rgb(229, 229, 229);
 }
