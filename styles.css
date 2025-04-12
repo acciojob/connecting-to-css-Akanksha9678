@@ -1,1 +1,32 @@
 /* Your CSS code here. */
+.container{
+	
+};
+.header,h1{
+	padding:0px 10px;
+}
+.navbar{
+	padding:10px;
+	background:black;
+	color:white;
+	
+	a{
+		color:white;
+		text-decoration:none;
+	}
+}
+main{
+	display:flex;
+}
+.mainSection{
+	padding:0px 10px;
+	background:#e1e8e3;
+}
+.Sidebar{
+	padding:0px 10px;
+	background:silver;
+}
+.footer{
+	padding:10px;
+	background:#d4cfcf;
+}
