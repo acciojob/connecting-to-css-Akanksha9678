@@ -2,12 +2,10 @@
 .container{
 	
 };
-.header,h1{
-	padding:0px 10px;
+.header{
 	background-color:rgb(229, 229, 229);
 }
 .navbar{
-	padding:10px;
 	background:black;
 	color:white;
 	
@@ -21,10 +19,10 @@ main{
 	background:rgb(245, 245, 245);
 }
 .mainSection{
-	padding:0px 10px;
-	background:#e1e8e3;
+	background:rgb(245, 245, 245);
 }
 aside{
+	padding:20px;
 	background:rgb(211, 211, 211);
 }
 .footer{
