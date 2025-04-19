@@ -3,11 +3,13 @@
 	
 };
 .header{
-	background-color:rgb(229, 229, 229);
+	background:rgb(229,229,229);
+	padding:20px;
 }
 .navbar{
-	background:black;
-	color:white;
+	padding:10px;
+	background:rgb(0,0,0);
+	color:rgb(255, 255, 255);
 	
 	a{
 		color:white;
@@ -17,8 +19,10 @@
 main{
 	display:flex;
 	background:rgb(245, 245, 245);
+	padding:0px;
 }
 .mainSection{
+	padding:20px;
 	background:rgb(245, 245, 245);
 }
 aside{
@@ -27,4 +31,5 @@ aside{
 }
 .footer{
 	background:rgb(229, 229, 229);
+	padding:20px;
 }
